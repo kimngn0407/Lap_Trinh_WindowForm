@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\CAFE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC7A8B0-F277-49CA-9817-FDEE48E0A675}|CAFE\\CAFE.csproj|c:\\users\\asus\\source\\repos\\cafe\\cafe\\dao\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC7A8B0-F277-49CA-9817-FDEE48E0A675}|CAFE\\CAFE.csproj|solutionrelative:cafe\\dao\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC7A8B0-F277-49CA-9817-FDEE48E0A675}|CAFE\\CAFE.csproj|c:\\users\\asus\\source\\repos\\cafe\\cafe\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC7A8B0-F277-49CA-9817-FDEE48E0A675}|CAFE\\CAFE.csproj|solutionrelative:cafe\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC7A8B0-F277-49CA-9817-FDEE48E0A675}|CAFE\\CAFE.csproj|C:\\Users\\ASUS\\source\\repos\\CAFE\\cafe\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EC7A8B0-F277-49CA-9817-FDEE48E0A675}|CAFE\\CAFE.csproj|solutionrelative:cafe\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC7A8B0-F277-49CA-9817-FDEE48E0A675}|CAFE\\CAFE.csproj|c:\\users\\asus\\source\\repos\\cafe\\cafe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC7A8B0-F277-49CA-9817-FDEE48E0A675}|CAFE\\CAFE.csproj|solutionrelative:cafe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC7A8B0-F277-49CA-9817-FDEE48E0A675}|CAFE\\CAFE.csproj|C:\\Users\\ASUS\\source\\repos\\CAFE\\cafe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EC7A8B0-F277-49CA-9817-FDEE48E0A675}|CAFE\\CAFE.csproj|solutionrelative:cafe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC7A8B0-F277-49CA-9817-FDEE48E0A675}|CAFE\\CAFE.csproj|c:\\users\\asus\\source\\repos\\cafe\\cafe\\dto\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC7A8B0-F277-49CA-9817-FDEE48E0A675}|CAFE\\CAFE.csproj|solutionrelative:cafe\\dto\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC7A8B0-F277-49CA-9817-FDEE48E0A675}|CAFE\\CAFE.csproj|c:\\users\\asus\\source\\repos\\cafe\\cafe\\dao\\billinfodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC7A8B0-F277-49CA-9817-FDEE48E0A675}|CAFE\\CAFE.csproj|solutionrelative:cafe\\dao\\billinfodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC7A8B0-F277-49CA-9817-FDEE48E0A675}|CAFE\\CAFE.csproj|c:\\users\\asus\\source\\repos\\cafe\\cafe\\dto\\billinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC7A8B0-F277-49CA-9817-FDEE48E0A675}|CAFE\\CAFE.csproj|solutionrelative:cafe\\dto\\billinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC7A8B0-F277-49CA-9817-FDEE48E0A675}|CAFE\\CAFE.csproj|c:\\users\\asus\\source\\repos\\cafe\\cafe\\dao\\tabledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC7A8B0-F277-49CA-9817-FDEE48E0A675}|CAFE\\CAFE.csproj|solutionrelative:cafe\\dao\\tabledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC7A8B0-F277-49CA-9817-FDEE48E0A675}|CAFE\\CAFE.csproj|c:\\users\\asus\\source\\repos\\cafe\\cafe\\dto\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC7A8B0-F277-49CA-9817-FDEE48E0A675}|CAFE\\CAFE.csproj|solutionrelative:cafe\\dto\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fLogin.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CAFE\\CAFE\\fLogin.cs",
+              "RelativeDocumentMoniker": "CAFE\\fLogin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CAFE\\CAFE\\fLogin.cs",
+              "RelativeToolTip": "CAFE\\fLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T02:04:08.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BillInfoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CAFE\\CAFE\\DAO\\BillInfoDAO.cs",
+              "RelativeDocumentMoniker": "CAFE\\DAO\\BillInfoDAO.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CAFE\\CAFE\\DAO\\BillInfoDAO.cs",
+              "RelativeToolTip": "CAFE\\DAO\\BillInfoDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:25:02.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BillInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CAFE\\CAFE\\DTO\\BillInfo.cs",
+              "RelativeDocumentMoniker": "CAFE\\DTO\\BillInfo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CAFE\\CAFE\\DTO\\BillInfo.cs",
+              "RelativeToolTip": "CAFE\\DTO\\BillInfo.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:15:33.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CAFE\\CAFE\\DTO\\Bill.cs",
+              "RelativeDocumentMoniker": "CAFE\\DTO\\Bill.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CAFE\\CAFE\\DTO\\Bill.cs",
+              "RelativeToolTip": "CAFE\\DTO\\Bill.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:40:27.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BillDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CAFE\\CAFE\\DAO\\BillDAO.cs",
+              "RelativeDocumentMoniker": "CAFE\\DAO\\BillDAO.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CAFE\\CAFE\\DAO\\BillDAO.cs",
+              "RelativeToolTip": "CAFE\\DAO\\BillDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:19:49.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CAFE\\CAFE\\DTO\\Table.cs",
+              "RelativeDocumentMoniker": "CAFE\\DTO\\Table.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CAFE\\CAFE\\DTO\\Table.cs",
+              "RelativeToolTip": "CAFE\\DTO\\Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T04:07:47.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TableDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CAFE\\CAFE\\DAO\\TableDAO.cs",
+              "RelativeDocumentMoniker": "CAFE\\DAO\\TableDAO.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CAFE\\CAFE\\DAO\\TableDAO.cs",
+              "RelativeToolTip": "CAFE\\DAO\\TableDAO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T04:01:43.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fTableManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CAFE\\CAFE\\fTableManager.cs",
+              "RelativeDocumentMoniker": "CAFE\\fTableManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CAFE\\CAFE\\fTableManager.cs",
+              "RelativeToolTip": "CAFE\\fTableManager.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwDkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:18:44.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fTableManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CAFE\\CAFE\\fTableManager.cs",
+              "RelativeDocumentMoniker": "CAFE\\fTableManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CAFE\\CAFE\\fTableManager.cs [Design]",
+              "RelativeToolTip": "CAFE\\fTableManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:57:14.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CAFE\\CAFE\\fLogin.cs",
+              "RelativeDocumentMoniker": "CAFE\\fLogin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CAFE\\CAFE\\fLogin.cs [Design]",
+              "RelativeToolTip": "CAFE\\fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:41:17.594Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
