@@ -25,21 +25,24 @@ namespace CAFE
         void LoadTable()
         {
             List<Table> tablelist = TableDAO.Instance.LoadTableList();
-            foreach (Table item in tablelist) 
+            foreach (Table item in tablelist)
             {
                 Button btn = new Button() { Width = TableDAO.TableWidth, Height = TableDAO.TableHeight };
                 btn.Text = item.Name + Environment.NewLine + item.Status;
                 btn.Click += Btn_Click;
                 btn.Tag = item;
-                switch(item.Status)
+                switch (item.Status)
                 {
+
+                    // use constant for this, example: String EMPTY = "Trống".
+                    // It means you only need to make one fix if your data changes. Many other places will change accordingly
                     case "Trống":
                         btn.BackColor = Color.White;
                         break;
                     default:
                         btn.BackColor = Color.LightPink;
-                        break; 
-                }    
+                        break;
+                }
 
                 flpTable.Controls.Add(btn);
             }
@@ -59,22 +62,25 @@ namespace CAFE
             ShowBill(tableID);
         }
 
+        //naming : wrong. you must use words without accents for naming.
         private void đăngXuấtToolStripMenuItem_Click(object sender, EventArgs e)
-            {
-                this.Close();
-            }
-
-            private void thôngTinCáNhânToolStripMenuItem_Click(object sender, EventArgs e)
-            {
-                fAccountProfile f = new fAccountProfile();
-                f.ShowDialog();
-            }
-
-            private void adminToolStripMenuItem_Click(object sender, EventArgs e)
-            {
-                fAdmin f = new fAdmin();
-                f.ShowDialog();
-            }
-            #endregion
+        {
+            this.Close();
         }
+
+        private void thôngTinCáNhânToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            fAccountProfile f = new fAccountProfile();
+            f.ShowDialog();
+        }
+
+        private void adminToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            fAdmin f = new fAdmin();
+            f.ShowDialog();
+        }
+
+        #endregion
+
     }
+}
